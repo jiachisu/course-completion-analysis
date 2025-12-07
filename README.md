@@ -99,8 +99,8 @@ This project analyzes **100,000 learner activity records** to identify behaviora
 
 **Jiachi Su**  
  Based in the U.S. | Data & Business Analytics  
- LinkedIn: *Add your link here*  
- Email: *add here if you want*
+ LinkedIn: *https://www.linkedin.com/in/jiachi-su-5b8623266/*  
+ Email: *jiachisuuk@gmail.com*
 
 ---
 
